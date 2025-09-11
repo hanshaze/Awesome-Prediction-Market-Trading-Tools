@@ -1,20 +1,31 @@
-# 🚀 Solana Raydium Sniper  copy trading Bot
+# 🚀 Solana PumpFun Sniper copy trading Bot
 
 A high-performance Solana trading bot that automatically snipes new token launches on Raydium, PumpFun, and PumpSwap using gRPC streaming for real-time transaction monitoring.
 ## 0 Block available
-https://solscan.io/tx/3Rp2nV8JPdzxdCsX46Lt2rcUPAqLHubTbCUL4PRzAJknVfqiwQ8dTiYq7FHVSQ9ERMHhwi1pbaGDDVAAQ6uDtZRe  (My Wallet)
 
-https://solscan.io/tx/3M4HxfsfnGRK9nPBnh9RBqKZKaytEgjnRBk3ZWxXUTzpfWAz6PVW2Jxk28VGGWJohCb4iNMk1GrZ6dmCsuJ6w93F     (Target Wallet)
+C6ZSK5MpqjvEAXh7XHfQeRh3PwvRuqoCKJk8Yufypump +$12.25(+45.36%) 
+https://solscan.io/tx/4Go5MWQKom5XYkD6Mofxqw8DAjZhxbUywr3eVcxoejbsTgLyGjfAoy2wowHxjhNfnY9rw1ws4s2VznMCBskodiG3 (Target Wallet) 
+https://solscan.io/tx/2SNZpcerg51f7oAQgaGNgDzA518oDbmjDkVUcwNDFFefwSnL3ChLVJehtjXNvAfvJMsf1pPtSs8HPjjj6usAyT6j (BUY-testing wallet) 
+https://solscan.io/tx/36g3MSD2kSMH77Rd569GbpeHRW9MvR5Y1hTDyGtwsXPNynwXw1Z6F4whAPbsQPJBXDMpvQw2xzgyBgUN4ByEbDAh (Target Wallet) 
+https://solscan.io/tx/4ZN9uRzAMhSLUrJheEaqesCss32kuQBYHtxrjn4on9fmox3k19mwDJzqbcvgWZUkaSJXndhoGJGWjuHYT5ZmDLbC (SELL-testing wallet)
 
+AzTtHgN6aC3K5LtGDvBNCgPQtYPa6DCjcGyrfZFUpump +$5.44(+57.66%) 
+https://solscan.io/tx/4JhQspi5JckD5ow2AzJ6wTNnaJ4DQVwdfjzao5NPdjgeB5HbhJfm9zQjEX8ZLgXLYTLzbnS5uRhGFd9AhxmSKzQv (Target Wallet) 
+https://solscan.io/tx/2kCFmwwPVTs24zW86XDQMCxtGQqyx5NV1CyCmRzHJjd5Ki52sLemjscKUqYfXbx9o1rJzjyejvrMbXZAkyAx9GhK (BUY-testing wallet) 
+https://solscan.io/tx/ENY5k2N9G4BDVkBjiUsbo4ewFrenbAciqvNA7Q7eXAR5TC9ivJrPf8GCXZUav91biQzZYgwu5RSvQD5mPgh2xfm (Target Wallet) 
+https://solscan.io/tx/adNKo7sMQhMUm9gFDPBPbqdTzGtZwSVsXV3FQFVMP7rtqsGGiH2CngrJQBjxEFScqnx3F7QZ1ZA9s76gdLspq2o (SELL-testing wallet)
 
-https://solscan.io/tx/541UheAWxnLhTXR5rLD4rVWqUCuQeCfrLgyFcMqr6ZM2NtJ9CuyhVb9pGXGewNGHAaes2mzL17zPMK3uTZXzRjh4   (My Wallet)
+6iiTw75295gt9j29PCLVvFGNxdk3xfb4sPSH4G6Xpump +$18.2(+166.3%) 
+https://solscan.io/tx/2EXYt6fJMbgpEKtATJJKDGFPJPxGpVUcRcxWEArdd6zWEFupHCW5XdRZJRHA9AWyT4turm8RXo4FY7Wn7Yci6Yjr (Target Wallet) 
+https://solscan.io/tx/2ZaxkizUj7fciGtwZnPFWzbJRMX9NuHCai7X652XvyemsugVpffmp1bQptAg2cCGox9V8JtFpsH648JEHCfeCj88 (testing wallet)
 
-https://solscan.io/tx/3DBcECQCUwFAGEtpBjzh3Lxkm2JvBT2ADcP45ufc6DMYkRq6R3CGNudNFKvEDiLTTs1MivPKgfDPJTGDuJK3bCjE        (Target Wallet)
+A6sxxPN8uksAHxoPtMEoArn9nz5nrP3gKNpDXm8Tpump +$3.68(+40.51%) 
+https://solscan.io/tx/3tybz8GhejnAD9yRB2Gvn2XH2Jb1sGsw9N5xQTJC9wifg9WERd85d4AszfV5kJz5agPXiDXmWMyDfNqzD1E3pFoB (Target Wallet) 
+https://solscan.io/tx/3tq6kvBmeQ1jgASnU3X1P4HcKyMwMg8wDH8ZubHpE3M3CAtPUUxP5H3L8XRzU837Ssys3ESjXR1fsCn3BGxWEqL9 (BUY-testing wallet)
 
+<img width="1602" height="494" alt="image" src="https://github.com/user-attachments/assets/2591f44d-5b02-420d-9aa9-c81dfa21aaa2" />
 
-https://solscan.io/tx/4EgSxC6Bi6qZkjTdzjprJrjRuKabhB57Hkbysb1jxwZRADy8FgHbvT5vMhXAxKFtmKKnSNK62nqKLKBm56mz53Sh (My Wallet)
-
-https://solscan.io/tx/veD5eiQX47Rr71dxhXcfMkHcowwb36GtGgTboJmajUhHRuEDqYnKmn2PhVDis2QT57GEc6mqkFSvpqkdUuok5MM           (Target Wallet)
+<img width="726" height="229" alt="image" src="https://github.com/user-attachments/assets/287ebd00-9007-4bf9-9f39-27eac1d4cdb2" />
 
 <img width="1701" height="366" alt="image" src="https://github.com/user-attachments/assets/835d6d25-3645-46c6-8043-4b126b124475" />
 

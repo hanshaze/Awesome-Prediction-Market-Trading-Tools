@@ -17,7 +17,7 @@
     "@solana/spl-token": "^0.4.13",
     "@solana/web3.js": "^1.98.0",
     "@triton-one/yellowstone-grpc": "^4.0.0",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "bs58": "^6.0.0",
     "chalk": "^5.3.0",
     "dotenv": "^16.4.7",

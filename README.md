@@ -59,6 +59,11 @@ I use a few tools for trading, strategy development, and market analytics to fin
 - Advanced trading tools  
 
 👉 https://trade.padre.gg/rk/423116  
+
+#### 🔹 telegram bot (Bloom)
+-ultra fast
+👉 https://t.me/BloomSolana_bot?start=ref_541WLB0DZS
+
 #### 🔹 Polymarket Trading
 - Prediction trading Platform  
 

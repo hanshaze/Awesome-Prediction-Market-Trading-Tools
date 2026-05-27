@@ -1,119 +1,104 @@
-# 👋️ Welcome to my GitHub profile
+# 🚀 Awesome Prediction Market Trading Tools
 
+Advanced trading tools, analytics, and automation systems for prediction markets like [Polymarket](https://polymarket.com).
 
-<div align="center">
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot">
-    <img src="https://img.shields.io/github/stars/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/fork">
-    <img src="https://img.shields.io/github/forks/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/issues">
-    <img src="https://img.shields.io/github/issues/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub License">
-  </a>
-</div>
+This repository contains powerful utilities for:
 
-> **Check out the [solana-sniper-copy-mev-trading-bot](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot) repository for the latest updates and source code!**
+* arbitrage trading
+* market analytics
+* automated execution
+* AI-assisted optimization
+* signal generation
+* liquidity monitoring
+* trading infrastructure
 
-
-
-## 🎯 About
-
-#### As a Fullstack developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
-
-#### By sharing the code, I invite others to build upon it, improve it, and perhaps even create something entirely new.
-
-🟢I typically respond within 2 hours and look forward to connecting with you.
-
-## 💡💡💡 Pro Tips
-
-
-## 💡 Trading Tools & Infrastructure (Recommended Stack)
-
-This bot is designed to work alongside a high-performance trading stack including **Solana trading bots, MEV tools, smart money trackers, and low-latency infrastructure**.
-
-Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
-
-> ⚡ Some links include fee discounts or access benefits.
+Built specifically for high-speed prediction market trading and real-time decision making.
 
 ---
 
-## ⚡ Execution Layer (Fastest Trading Tools)
+# 📈 Polymarket Arbitrage Bot
 
-**Axiom Trade** — `solana trading bot / fast execution / low fees`
+A powerful analytics and signal engine designed for prediction market traders.
 
-* Optimized for **on-chain trading & sniping**
-* 10–30% lower trading fees
-* Reliable for high-frequency execution
-  → [Start using Axiom](https://axiom.trade/@423116)
+The bot continuously monitors:
 
-**Odin Bot** — `automated trading bot / strategy execution`
+* market inefficiencies
+* spread opportunities
+* liquidity changes
+* volatility shifts
+* execution conditions
+* price imbalances
 
-* Fully automated trading strategies
-* Low-latency execution engine
-  → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
-
-**Bloom (Telegram Bot)** — `ultra-fast solana trading bot`
-
-* Lightweight + extremely fast execution
-* Ideal for mobile + quick trades
-  → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
+to identify high-probability arbitrage and trading opportunities in real time.
 
 ---
 
-## 📊 Alpha & Analytics (Edge Tools)
+## ⚡ Features
 
-**GMGN** — `smart money tracker / early token discovery`
+* Real-time arbitrage detection
+* Smart trading signals
+* AI-assisted trade optimization
+* Advanced analytics dashboard
+* Position & PnL tracking
+* Risk management system
+* Telegram integration
+* Automated execution workflows
+* Market spread monitoring
+* High-frequency trading support
 
-* Track **whales & insider activity**
-* Discover tokens before they trend
-  → [Explore GMGN](https://gmgn.ai/r/L53EOll4)
+Designed for:
 
----
-
-## 🧠 Advanced Trading Platforms
-
-**Padre** — `advanced trading interface / pro tools`
-
-* Enhanced execution controls
-* Additional trading utilities
-  → [Open Padre](https://trade.padre.gg/rk/423116)
-
-**Polymarket** — `prediction market / trading signals`
-
-* Trade on real-world outcomes
-* Useful for **sentiment-driven strategies**
-  → [Try Polymarket](https://polymarket.com/?r=cryptoking110600)
+* professional traders
+* prediction market scalpers
+* quant researchers
+* automation-focused traders
+* crypto trading communities
 
 ---
 
-## 🖥️ Low-Latency Infrastructure (Critical for MEV)
+## 📊 Screenshots
 
-**Recommended VPS Setup** — `low latency trading server / solana bot hosting`
+### Trading Dashboard
 
-For best performance, run the bot on a **New York-based VPS** (close to major trading infrastructure):
- → [Try Tradingvps.io](https://app.tradingvps.io/aff.php?aff=22)
-* ⚡ Lower latency = faster execution
-* 🔁 More reliable transaction inclusion
-* 🧩 Better performance for MEV / sniping strategies
+<img width="1917" height="893" alt="Screenshot 2026-05-18 031019" src="https://github.com/user-attachments/assets/f45c8109-6500-4c64-bb22-31297657f20e" />
 
----
+### Arbitrage & Signal Analytics
 
-## 📈 Why This Stack Matters
+<img width="1861" height="881" alt="Screenshot 2026-05-18 011706" src="https://github.com/user-attachments/assets/d46676ea-5f88-482e-91d4-e81aeef2f6df" />
 
-Using this setup improves:
+### Position & Execution Monitoring
 
-* Transaction speed (critical for sniping)
-* Fill rates & execution reliability
-* Access to early opportunities (alpha)
+<img width="1893" height="769" alt="Screenshot 2026-05-18 011723" src="https://github.com/user-attachments/assets/3cd99752-bc90-4bda-9c69-a1228251d1cb" />
 
 ---
 
-## ⚠️ Disclaimer
+# 🟢 New Prediction Market Platform — Future News
 
-* These tools are optional and not required to run the bot
-* Always test strategies before scaling
-* Trading involves risk
+Explore the new prediction market platform from GMGN:
+
+👉 [Future News](https://future.news/D1NU57OF)
+
+Future News is a next-generation prediction market platform focused on:
+
+* real-world event trading
+* fast market execution
+* wallet-connected trading
+* real-time market analytics
+
+A promising ecosystem for traders looking beyond traditional prediction markets.
+
+<img width="1487" height="767" alt="Future News" src="https://github.com/user-attachments/assets/2a6555b2-18d8-44e7-908d-06b2a6e621e2" />
+
+---
+
+# 🎯 Vision
+
+The goal of this repository is to build one of the most advanced open ecosystems for:
+
+* prediction market trading
+* AI-assisted analytics
+* automated trading systems
+* execution infrastructure
+* market intelligence tools
+
+for the next generation of decentralized trading platforms.

@@ -1,6 +1,6 @@
 # 🚀 Awesome Prediction Market Trading Tools
 
-Advanced trading tools, analytics, and automation systems for prediction markets like [Polymarket](https://polymarket.com).
+Advanced trading tools, analytics, and automation systems for prediction markets like [Polymarket](https://polymarket.com/?r=cryptoking1106).
 
 This repository contains powerful utilities for:
 
@@ -90,6 +90,7 @@ A promising ecosystem for traders looking beyond traditional prediction markets.
 <img width="1487" height="767" alt="Future News" src="https://github.com/user-attachments/assets/2a6555b2-18d8-44e7-908d-06b2a6e621e2" />
 
 ---
+Advanced trading tools, analytics, and automation systems for prediction markets like [Polymarket](https://polymarket.com/?r=cryptoking1106).
 
 # 🎯 Vision
 
